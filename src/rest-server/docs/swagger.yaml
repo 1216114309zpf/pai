@@ -1530,7 +1530,7 @@ components:
           properties:
             submitFrom:
               type: string
-            hivedscheduler:
+            hivedScheduler:
               type: object
               properties:
                 jobPriorityClass:
